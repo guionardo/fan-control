@@ -27,6 +27,11 @@ A controladora também monitorará a velocidade real dos fans e enviará a infor
 - https://www.irjmets.com/uploadedfiles/paper//issue_10_october_2023/45788/final/fin_irjmets1698948143.pdf
 - https://forum.arduino.cc/t/how-do-i-control-a-12v-dc-fan-with-arduino/657589/3
 - https://forum.arduino.cc/t/reading-fan-rpm-with-pwm/368626
+- https://arduino.stackexchange.com/questions/41535/digispark-serial-port-communication
+- https://www.pjrc.com/teensy/td_libs_AltSoftSerial.html
+- https://github.com/digistump/arduino-boards-index/blob/master/package_digistump_index.json
+- https://www.reddit.com/r/AskElectronics/comments/129mjfc/how_to_connect_the_attiny85_to_usb_to_receive/
+- https://github.com/wagiminator/ATtiny85-TinyTerminal
 
 ### Gerenciador
 
